@@ -1393,7 +1393,7 @@ header.main-header .header-sticky.active{
 }
 
 .intro-clinic-video{
-	padding: 100px 0 50px;
+	padding: 50px 0 50px;
 }
 
 .visit-clinic{
@@ -1402,7 +1402,7 @@ header.main-header .header-sticky.active{
 	background-position: center center;
 	background-size: auto;
 	border-radius: 40px;
-	padding: 150px 0;
+	padding: 70px 0;
 }
 
 .visit-clinic::before{
@@ -1427,7 +1427,9 @@ header.main-header .header-sticky.active{
 }
 
 .visit-clinic-content .section-title h3,
-.visit-clinic-content .section-title h2{
+.visit-clinic-content .section-title h2,
+.visit-clinic-content .section-title p
+{
 	color: var(--white-color);
 }
 
