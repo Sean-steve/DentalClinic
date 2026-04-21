@@ -3629,7 +3629,7 @@ footer.main-footer{
 .google-map-iframe,
 .google-map-iframe iframe{
 	width: 100%;
-	height: 735px;
+	height: 350px;
 	border-radius: 30px;
 }
 
