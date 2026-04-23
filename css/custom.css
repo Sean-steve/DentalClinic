@@ -885,7 +885,7 @@ header.main-header .header-sticky.active{
 }
 
 .export-dantist-content{
-	width: calc(100% - 88px);
+	width: calc(100% - 8px);
 }
 
 .export-dantist-content h3{
